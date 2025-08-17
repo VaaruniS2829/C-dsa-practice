@@ -1,4 +1,4 @@
-// Singly linked list insertion at beginning //
+// Singly linked list : inserting a node at beginning //
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
