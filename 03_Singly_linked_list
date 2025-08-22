@@ -1,4 +1,4 @@
-// Singly linked list : Insertion node at the end
+// Singly linked list : Inserting a node at the end
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
