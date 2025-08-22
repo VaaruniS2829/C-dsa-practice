@@ -1,4 +1,4 @@
-// Singly Linked List Implementation //
+// Singly Linked List Implementation
 #include<stdio.h>
 #include<stdlib.h>
 struct node
