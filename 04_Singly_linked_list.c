@@ -1,4 +1,4 @@
-//Singly linked list : Inserting a node at a given position //
+//Singly linked list : Inserting a node at a given position 
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
