@@ -34,3 +34,5 @@ int main(){
     }
     return 0;
 }
+
+Drawback : takes more space
