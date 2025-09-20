@@ -1,4 +1,4 @@
-Doubly linked list:Insert at beginning
+Doubly linked list:Insert node at beginning
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -15,10 +15,10 @@ void insert_at_beg();
 
 void main(){
 create_dll();
-printf("Linked list before deletion:\n");
+printf("Linked list before insertion:\n");
 display();
 insert_at_beg();
-printf("Linked list before deletion:\n");
+printf("Linked list after insertion :\n");
 display();
 }
 void create_dll(){
