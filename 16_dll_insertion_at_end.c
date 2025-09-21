@@ -1,4 +1,4 @@
-Doubly linked list : Insertion at end
+Doubly linked list : Insert node at the end
 
 #include<stdio.h>
 #include<stdlib.h>
