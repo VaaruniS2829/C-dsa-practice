@@ -3,9 +3,9 @@
 
 /* ---------- Structure ---------- */
 struct node {
-    int amount;
+    int amount; // amount involved in transaction
     int type;   // 1 = deposit, 2 = withdraw
-    struct node *next;
+    struct node *next; 
 };
 
 /* ---------- Global Variables ---------- */
